@@ -81,18 +81,19 @@ As I continue to grow in this field, I’m actively expanding my capabilities in
 ## 📂 Project Categories
 
 ### 🛡️ Defensive Security & Blue Teaming
-> Setup and usage of open-source tools to monitor and defend systems  
-✅ Log collection & analysis  
-✅ Host-based intrusion detection systems  
-✅ Basic SIEM use-cases and alert
+> Tools, documentation, and processes to support proactive defense and incident response  
+✅ Post-Incident Reports & analysis  
+✅ Detection logic documentation  
+✅ Standard Operating Procedures (SOPs) for blue team operations  
+✅ Log collection & host-based intrusion detection system setups  
 
 ### 🔍 Reverse Engineering
-> Practical work involving the decompilation and analysis of .NET binaries using ILSpy  
-✅ Binary structure analysis  
-✅ Multi-stage malware investigation  
-✅ Assembly vs. high-level code comparisons
+> Investigations and intelligence gathering on emerging threats and malware  
+✅ Threat actor profiling  
+✅ Malware analysis case studies  
+✅ Tactics, Techniques, and Procedures (TTPs) documentation
 
-### 💻 Ethical Hacking & Web Exploits
+### 💻 Ethical Hacking & Web Exploits (Work in Progress)
 > Labs, writeups, and custom payloads built for educational purposes  
 ✅ XSS attack simulations  
 ✅ Input validation bypass  
