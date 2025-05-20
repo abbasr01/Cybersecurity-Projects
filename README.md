@@ -87,7 +87,7 @@ As I continue to grow in this field, I’m actively expanding my capabilities in
 ✅ Standard Operating Procedures (SOPs) for blue team operations  
 ✅ Log collection & host-based intrusion detection system setups  
 
-### 🔍 Reverse Engineering
+### 🔍 Research & Threat Intelligence
 > Investigations and intelligence gathering on emerging threats and malware  
 ✅ Threat actor profiling  
 ✅ Malware analysis case studies  
